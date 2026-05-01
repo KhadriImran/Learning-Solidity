@@ -69,5 +69,13 @@
         "file": "contracts/pract1.sol"
       }
     }
+  },
+  "contracts/Pract2.sol": {
+    "__sources__": {
+      "contracts/Pract2.sol": {
+        "content": "//Hello",
+        "file": "contracts/Pract2.sol"
+      }
+    }
   }
 }
